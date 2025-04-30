@@ -11,7 +11,7 @@ if (preg_match('/^[0-9\.\+\-\*\/ ]+$/', $calcul)) {
 }
 
 ?>
-
+fdgdfg
 <!DOCTYPE html>
 <html lang="fr">
 
